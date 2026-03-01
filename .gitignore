@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# uv
+uv.lock
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+.pyright/
+pyrightconfig.json
+
+# PyInstaller
+*.spec.bak
+
+# Logs
+*.log
+~/.xcde_editor/
+
+# Real save files — kept locally for manual testing, never committed
+saves/
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
