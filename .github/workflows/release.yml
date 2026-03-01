@@ -102,4 +102,5 @@ jobs:
 
             ### Source
             This release includes all source code as required by the GPLv3 license.
+            Forked from [MathieuARS/XCDE-Save-Editor](https://github.com/MathieuARS/XCDE-Save-Editor).
             Original save-file research by [damysteryman](https://gitlab.com/damysteryman/XCDESave).
