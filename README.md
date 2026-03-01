@@ -109,16 +109,6 @@ uv run pytest
 
 ---
 
-## Roadmap
-
-- [ ] Inventory editor (offsets under investigation)
-- [ ] Affinity chart editor (offsets under investigation)
-- [ ] Future Connected character/arts support
-- [ ] `bfssystem.sav` support
-- [ ] Dark mode / theme switcher
-
----
-
 ## License
 
 GNU General Public License v3.0 — see [LICENSE](LICENSE).
