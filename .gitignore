@@ -5,11 +5,9 @@ __pycache__/
 .venv/
 *.egg-info/
 dist/
-build/
 .eggs/
 
-# uv
-uv.lock
+# uv — lock file is committed for reproducible builds
 
 # Testing & coverage
 .pytest_cache/
@@ -21,7 +19,9 @@ htmlcov/
 .pyright/
 pyrightconfig.json
 
-# PyInstaller
+# PyInstaller — ignore build artifacts but commit the spec file
+build/*
+!build/*.spec
 *.spec.bak
 
 # Logs
