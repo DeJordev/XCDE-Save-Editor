@@ -30,6 +30,14 @@ projects are built upon.
 
 ---
 
+## Screenshots
+
+![Chars](screenshots/chars_tab.png)
+
+![Arts](screenshots/arts_tab.png)
+
+![Economy](screenshots/economy_tab.png)
+
 ## Download
 
 Go to [Releases](../../releases) and download the binary for your platform.
